@@ -41,3 +41,6 @@ streamlit run app.py
 
 ## 🧪 Customization & Potential Modifications
 Rank Importance of Keywords
+
+## Things Needed
+Create your own API Key from ChatGPT, DeepSeek and Hugging Face
