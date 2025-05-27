@@ -1,0 +1,11 @@
+{
+  "Programming Languages": ["Python", "Java", "C++", "JavaScript", "TypeScript", "Go", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "C#", "R", "Scala", "SQL", "HTML", "CSS"],
+  "Frameworks & Libraries": ["React", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask", "Spring Boot", "ASP.NET", "Ruby on Rails", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "NumPy", "Apache Spark", "Hadoop", "Dask", "MERN", "MEAN", "Next.js", "NestJS"],
+  "Cloud Platforms": ["AWS", "Azure", "Google Cloud Platform", "GCP", "Kubernetes", "Docker", "Terraform", "Ansible", "CloudFormation"],
+  "Databases": ["MySQL", "PostgreSQL", "MongoDB", "Cassandra", "Redis", "Elasticsearch", "Neo4j", "SQLite"],
+  "DevOps & Tools": ["Git", "GitHub", "GitLab", "Jenkins", "Travis CI", "CircleCI", "Jira", "Confluence", "Prometheus", "Grafana", "Linux", "Bash", "Shell Scripting", "CI/CD"],
+  "Data Science & ML": ["Machine Learning", "Deep Learning", "Data Analysis", "Statistical Modeling", "NLP", "Computer Vision", "Reinforcement Learning", "Big Data", "Data Mining", "Feature Engineering", "Model Deployment", "A/B Testing"],
+  "Operating Systems": ["Windows", "macOS", "Linux", "Unix"],
+  "Methodologies": ["Agile", "Scrum", "Kanban", "Waterfall", "DevOps"],
+  "Other Technologies": ["REST APIs", "GraphQL", "Microservices", "Serverless", "Blockchain", "Cybersecurity", "Networking", "Unity", "Unreal Engine", "Figma", "Adobe XD", "UI/UX", "Data Visualization"]
+}
